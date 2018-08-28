@@ -20,7 +20,7 @@
         "core-js": "2.5.7",
         "ngx-cacheable": "1.0.6",
         "rxjs": "6.2.2",
-        "uikit": "3.0.0-rc.11",
+        "uikit": "3.0.0-rc.12",
         "zone.js": "0.8.26"
     },
     "devDependencies": {
